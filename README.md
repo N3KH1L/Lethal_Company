@@ -114,7 +114,7 @@ This guide will help you run **Lethal Company** on **macOS** using [Crossover](h
 3. Navigate to:
 
    ```
-   /Games/Lethal Company (M4CKD0GE Repack)/
+   Games -> Lethal Company (M4CKD0GE Repack)
    ```
 4. Copy the contents of `files_to_copy` into the game folder
 <img width="1220" height="603" alt="Screenshot 2025-08-08 at 12 06 23 PM" src="https://github.com/user-attachments/assets/e521bb9f-02c1-47ae-9e75-53b93df336dc" />
