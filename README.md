@@ -26,6 +26,8 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 
      * `Setup.exe`
      * `m4ckd0ge.bin`
+    
+   * Also download the `files_to_copy.zip` file from this repository
 
 ---
 
@@ -132,7 +134,8 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 
 ## ⚠️ Instructions for windows
 
-1. If you are on Windows, you can proceed by executing the **"Setup.exe"** file and following the game installer prompts
+1. Download the files my 
+1. Execute the **"Setup.exe"** file and follow the game installer prompts
 2. Unzip `files_to_copy.zip`
 3. Navigate to the game folder:
 
