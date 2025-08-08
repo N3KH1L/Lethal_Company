@@ -35,6 +35,7 @@ This guide will help you run **Lethal Company** on **macOS** using [Crossover](h
 2. Click **"Bottle" → "New Bottle"**
    ![New Bottle](https://github.com/user-attachments/assets/683dd01f-7e9f-42a3-8d04-f1558a82f02b)
 
+
 3. Name your bottle (e.g., `LethalCompany`)
 
 4. Choose:
@@ -54,8 +55,10 @@ This guide will help you run **Lethal Company** on **macOS** using [Crossover](h
 2. Click **"Install Application into Bottle"**
    ![Install Application](https://github.com/user-attachments/assets/d19a898e-2d20-419e-96ec-d6a6a0c4befe)
 
+
 3. Choose **"Install an unlisted application"**
    ![Unlisted App](https://github.com/user-attachments/assets/bef116fa-3ff4-4264-af85-0c1d8b060ce3)
+
 
 4. Click **"Install"**
 
@@ -116,6 +119,7 @@ This guide will help you run **Lethal Company** on **macOS** using [Crossover](h
    ```
 4. Copy the contents of `files_to_copy` into the game folder
    ![Copy Files](https://github.com/user-attachments/assets/e521bb9f-02c1-47ae-9e75-53b93df336dc)
+
 
 ---
 
