@@ -21,7 +21,7 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 1. **Download and Extract Zip File**
    - Download the zip file from the link in the Whatsapp group
    - Extract the zip file
-   - You should have a folder that has a **Setup.exe** and a **m4ckd0ge.bin** file
+   - You should have a folder that has a **"Setup.exe"** and a **"m4ckd0ge.bin"** file
 
 ---
 
