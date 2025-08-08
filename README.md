@@ -1,6 +1,3 @@
-# Instructions to play Lethal Company
-
-## Steps overview
 
 # Instructions to play Lethal Company
 
