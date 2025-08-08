@@ -13,15 +13,15 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 - macOS 12 or later (Apple Silicon or Intel)
 - [Crossover for macOS](https://www.codeweavers.com/crossover/download)
 - Game build: `lethal.company.v72.build.18916695.incl.online-m4ckd0ge_repack (extract.me)`  
-- 7-Zip or Keka (for extracting `.7z` files)
 
 ---
 
 ## 📦 Step 1: Prepare the Game Files
 
-1. **Extract the Game Archive**
-   - Unzip or extract the `.7z` file using [Keka](https://www.keka.io/) or [The Unarchiver](https://theunarchiver.com/)
-   - After extraction, you should have a game folder containing the game `.exe` and related files.
+1. **Download and Extract Zip File**
+   - Download the zip file from the link in the Whatsapp group
+   - Extract the zip file
+   - You should have a folder that has a **Setup.exe** and a **m4ckd0ge.bin** file
 
 ---
 
@@ -29,14 +29,15 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 
 1. **Open Crossover**
 2. Click **"Bottle" > "New Bottle"**
-3. Name the bottle (e.g., `LethalCompany`)
-4. Choose:
+<img width="472" height="242" alt="Screenshot 2025-08-08 at 11 36 34 AM" src="https://github.com/user-attachments/assets/35cca4eb-82be-4601-8c41-64585e70fae0" />
+4. Name the bottle (e.g., `LethalCompany`)
+5. Choose:
    - **Windows 10 (64-bit)** as the environment
    - Wait for bottle creation to finish
 
 ---
 
-## 🛠 Step 3: Install Dependencies (Optional, but Recommended)
+## 🛠 Step 3: Install The Game
 
 In the **LethalCompany** bottle:
 1. Go to the bottle → **Install Software into Bottle**
