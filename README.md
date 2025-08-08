@@ -1,1 +1,1 @@
-#Instructions to play Lethal Company
+# Instructions to play Lethal Company
