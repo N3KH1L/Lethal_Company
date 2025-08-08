@@ -2,7 +2,7 @@
 
 # 🎮 How to Run **Lethal Company** on macOS & Windows (No Steam) via Crossover
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Repo Size](https://img.shields.io/github/repo-size/USER/REPO)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This guide will help you run **Lethal Company** on **macOS** & **windows** using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
 
