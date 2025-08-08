@@ -29,22 +29,35 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 
 1. **Open Crossover**
 2. Click **"Bottle" > "New Bottle"**
-<img width="472" height="242" alt="Screenshot 2025-08-08 at 11 36 34 AM" src="https://github.com/user-attachments/assets/35cca4eb-82be-4601-8c41-64585e70fae0" />
-4. Name the bottle (e.g., `LethalCompany`)
-5. Choose:
+<img width="465" height="220" alt="Screenshot 2025-08-08 at 11 39 01 AM" src="https://github.com/user-attachments/assets/683dd01f-7e9f-42a3-8d04-f1558a82f02b" />
+
+3. Name the bottle (e.g., `LethalCompany`)
+4. Choose:
    - **Windows 10 (64-bit)** as the environment
    - Wait for bottle creation to finish
 
 ---
 
 ## 🛠 Step 3: Install The Game
-   ## 🎮  Add and Configure the Game in the Bottle
 
-Once you've extracted the game files and created a new bottle in Crossover, follow these steps to run the game and enable networking.
+In the **LethalCompany** bottle:
+1. Go to the bottle → **Install Application into Bottle**
+<img width="288" height="249" alt="Screenshot 2025-08-08 at 11 40 39 AM" src="https://github.com/user-attachments/assets/d19a898e-2d20-419e-96ec-d6a6a0c4befe" />
+
+2. Click on **Install an unlisted application**
+<img width="873" height="255" alt="Screenshot 2025-08-08 at 11 41 48 AM" src="https://github.com/user-attachments/assets/bef116fa-3ff4-4264-af85-0c1d8b060ce3" />
+
+3. Click **Install**
+   - It should now ask you for an installer file
+
+4. Select the **Setup.exe** file that you have extracted from the zip and click **Choose installer**
+
+5. A game installer window should open
+   - Follow the instructions in the window and wait for installation
 
 
 
-### 🧭 A. Add the Game Executable
+### 🧭 Add the Game Executable
 
 1. **Open Crossover**
    - Launch the Crossover app.
@@ -56,7 +69,7 @@ Once you've extracted the game files and created a new bottle in Crossover, foll
    - This opens a window to run a custom `.exe` file.
 
 4. **Browse for the Game File**
-   - Click **"Browse..."** and navigate to the extracted folder.
+   - Click **"Browse..."** and navigate to the Games folder (or the folder you installed the game in).
    - Select the game's executable file:
      ```
      Lethal Company.exe
@@ -70,7 +83,7 @@ Once you've extracted the game files and created a new bottle in Crossover, foll
 
 ---
 
-### ⚙️ B. Enable WinHTTP in Wine (Required for Online Play)
+### ⚙️ Enable WinHTTP in Wine (Required for Online Play)
 
 To ensure online/multiplayer functionality works correctly, you must manually enable the `winhttp` library in the bottle's Wine settings.
 
