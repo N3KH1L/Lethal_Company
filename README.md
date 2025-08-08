@@ -38,39 +38,69 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 ---
 
 ## 🛠 Step 3: Install The Game
+   ## 🎮  Add and Configure the Game in the Bottle
+
+Once you've extracted the game files and created a new bottle in Crossover, follow these steps to run the game and enable networking.
 
 
+
+### 🧭 A. Add the Game Executable
 
 1. **Open Crossover**
    - Launch the Crossover app.
 
 2. **Select Your Bottle**
-   - In the sidebar, click the bottle you created earlier (e.g., `LethalCompany`).
+   - In the sidebar, select the bottle you created earlier (e.g., `LethalCompany`).
 
-3. **Open "Run Command..."**
-   - In the top-right or bottle menu, click **"Run Command..."**  
-   This allows you to run any `.exe` file manually inside the selected bottle.
+3. **Click "Run Command..."**
+   - This opens a window to run a custom `.exe` file.
 
-4. **Browse to the Game EXE**
-   - Click the **"Browse..."** button
-   - Navigate to the folder where you extracted the game
-   - Select the main game file — usually:
+4. **Browse for the Game File**
+   - Click **"Browse..."** and navigate to the extracted folder.
+   - Select the game's executable file:
      ```
      Lethal Company.exe
      ```
-   - Click **"Open"**
 
 5. **(Optional) Save as Launcher**
-   - Before clicking Run, check the box:  
-     ✅ **"Save Command as a Launcher"**
-   - This creates a shortcut in Crossover so you don’t have to repeat this step every time.
+   - Enable ✅ **"Save Command as Launcher"** to create a shortcut in Crossover.
 
 6. **Click "Run"**
-   - The game should now launch inside the Crossover environment.
-   - If it doesn’t start, double-check:
-     - You selected the correct `.exe`
-     - You enabled **WinHTTP** in Step 4
-     - Required dependencies are installed (see Step 5)
+   - The game should now launch inside the bottle.
+
+---
+
+### ⚙️ B. Enable WinHTTP in Wine (Required for Online Play)
+
+To ensure online/multiplayer functionality works correctly, you must manually enable the `winhttp` library in the bottle's Wine settings.
+
+Follow these steps:
+
+1. **Open Wine Configuration**
+   - With your `LethalCompany` bottle selected, click the gear icon or right-click → **"Wine Configuration"**
+
+2. **Go to the "Libraries" Tab**
+   - In the Wine Configuration window, switch to the **Libraries** tab.
+
+3. **Add `winhttp`**
+   - Under **"New override for library"**, type:
+     ```
+     winhttp
+     ```
+   - Click **"Add"**
+
+4. **Confirm Override**
+   - You should now see:
+     ```
+     winhttp (native, builtin)
+     ```
+   - If not, select it in the list and choose **"Edit"** to set it manually to **native, builtin**
+
+5. **Click "Apply"**, then **"OK"**
+
+---
+
+> 🧠 Tip: If the game doesn’t launch or shows network-related errors, enabling `winhttp` typically resolves it. You can return to this setting any time via Wine Configuration.
 
 ---
 
