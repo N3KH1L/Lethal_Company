@@ -134,7 +134,7 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 
 ## ⚠️ Instructions for windows
 
-1. Download the files my 
+1. Download the files by following the instructions in Step 1 
 1. Execute the **"Setup.exe"** file and follow the game installer prompts
 2. Unzip `files_to_copy.zip`
 3. Navigate to the game folder:
