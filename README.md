@@ -43,16 +43,16 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 ### 🛠 A. Install Game Into Bottle
 
 In the **LethalCompany** bottle:
-1. Go to the bottle → **Install Application into Bottle**
+1. Go to the bottle → **"Install Application into Bottle"**
 <img width="288" height="249" alt="Screenshot 2025-08-08 at 11 40 39 AM" src="https://github.com/user-attachments/assets/d19a898e-2d20-419e-96ec-d6a6a0c4befe" />
 
-2. Click on **Install an unlisted application**
+2. Click on **"Install an unlisted application"**
 <img width="873" height="255" alt="Screenshot 2025-08-08 at 11 41 48 AM" src="https://github.com/user-attachments/assets/bef116fa-3ff4-4264-af85-0c1d8b060ce3" />
 
-3. Click **Install**
+3. Click **"Install"**
    - It should now ask you for an installer file
 
-4. Select the **Setup.exe** file that you have extracted from the zip and click **Choose installer**
+4. Select the **"Setup.exe"** file that you have extracted from the zip and click **"Choose installer"**
 
 5. A game installer window should open
    - Follow the instructions in the window and wait for installation
@@ -114,14 +114,14 @@ Follow these steps:
 
 ### 📁 D. Paste Mod Folders (Required for Online Play)
 
-1. Unzip the **files_to_copy.zip** file
+1. Unzip the **"files_to_copy.zip"** file
 
-2. Navigate to the bottle and click on **Open C: Drive**
+2. Navigate to the bottle and click on **"Open C: Drive"**
    - This should open a new window with the bottle files
 
-3. Navigate to the game folder (usually located in **/Games/Lethal Company (M4CKD0GE Repack)/**)
+3. Navigate to the game folder (usually located in **"/Games/Lethal Company (M4CKD0GE Repack)/"**)
 
-4. Copy the contents of the extracted **files_to_copy.zip** file into the game folder
+4. Copy the contents of the extracted **"files_to_copy.zip"** file into the game folder
 
 <img width="1220" height="603" alt="Screenshot 2025-08-08 at 12 06 23 PM" src="https://github.com/user-attachments/assets/e521bb9f-02c1-47ae-9e75-53b93df336dc" />
 
