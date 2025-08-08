@@ -12,14 +12,7 @@
 
 This guide will help you run **Lethal Company** on **macOS** & **windows** using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
 
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
-<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
+<img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;"><img src="https://media.tenor.com/GicZaDp6t_kAAAAi/lethal-company-lethal-company-dance.gif" width="10%" style="opacity:0.2;">
 ---
 
 ## ✅ Requirements
