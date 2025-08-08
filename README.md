@@ -1,4 +1,1 @@
-hi
-
-hi
-we can use got here
+#Instructions to play Lethal Company
