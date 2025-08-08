@@ -5,7 +5,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 ![Last Commit](https://img.shields.io/github/last-commit/N3KH1L/Lethal_Company) 
 ![Static Badge](https://img.shields.io/badge/Momin-Approved-yellow)
-![Static Badge](https://img.shields.io/badge/%E2%80%8E%20-It's%20Finger%20Lickin'%20Good-F40027?style=flat&logo=kfc&logoColor=%23F40027&logoSize=auto)
+[![Static Badge](https://img.shields.io/badge/%E2%80%8E%20-It's%20Finger%20Lickin'%20Good-F40027?style=flat&logo=kfc&logoColor=%23F40027&logoSize=auto)](https://www.kfc.com/menu#tenders)
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=CCCCCC&center=true&vCenter=true&width=600&lines=Can+you+make+it+back+in+one+piece?;Every+pickup+matters;Trust+no+one…+not+even+your+team." alt="Typing SVG" />
 
