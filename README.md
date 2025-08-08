@@ -47,7 +47,7 @@ This guide will help you run **Lethal Company** on **macOS** using [Crossover](h
 
 ## 🛠 Step 3: Install The Game
 
-### Windows Only
+### ⚠️ Windows Only
 
 1. If you are on Windows, you can proceed by executing the **"Setup.exe"** file and following the game installer prompts
 2. Unzip `files_to_copy.zip`
