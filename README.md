@@ -115,7 +115,20 @@ Follow these steps:
 
 ---
 
+### 📁 C. Paste Mod Folders (Required for Online Play)
 
+1. Unzip the **files_to_copy.zip** file
+
+2. Navigate to the bottle and click on **Open C: Drive**
+   - This should open a new window with the bottle files
+
+3. Navigate to the game folder (usually located in **/Games/Lethal Company (M4CKD0GE Repack)/**)
+
+4. Copy the contents of the extracted **files_to_copy.zip** file into the game folder
+
+<img width="1220" height="603" alt="Screenshot 2025-08-08 at 12 06 23 PM" src="https://github.com/user-attachments/assets/e521bb9f-02c1-47ae-9e75-53b93df336dc" />
+
+---
 ## 🎮 Step 4: Run the Game
 
 - If you haved saved the command as a launcher, you should see Lethal Company in the bottle
