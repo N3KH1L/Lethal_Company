@@ -1,8 +1,8 @@
 ---
 
-# 🎮 How to Run **Lethal Company** on macOS (No Steam) via Crossover
+# 🎮 How to Run **Lethal Company** on macOS & Windows (No Steam) via Crossover
 
-This guide will help you run **Lethal Company** on **macOS** using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
+This guide will help you run **Lethal Company** on **macOS** & **windows**using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
 
 ---
 
