@@ -29,7 +29,7 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 
 ---
 
-## 🍷 Step 2: Set Up a Crossover Bottle (SKIP ON WINDOWS)
+## 🍷 Step 2: Set Up a Crossover Bottle
 
 1. **Open Crossover**
 
@@ -47,18 +47,6 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 ---
 
 ## 🛠 Step 3: Install The Game
-
-### ⚠️ Windows Only
-
-1. If you are on Windows, you can proceed by executing the **"Setup.exe"** file and following the game installer prompts
-2. Unzip `files_to_copy.zip`
-3. Navigate to the game folder:
-
-   ```
-   C: -> Games -> Lethal Company (M4CKD0GE Repack)
-   ```
-4. Copy the contents of `files_to_copy` into the game folder
-
 
 ### A. Install Game into Bottle
 
@@ -139,6 +127,20 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 
 * If you saved the launcher, click **Lethal Company** in Crossover to launch
 * Otherwise, re-run the game using **"Run Command..."** (see Step 3B)
+
+---
+
+## ⚠️ Instructions for windows
+
+1. If you are on Windows, you can proceed by executing the **"Setup.exe"** file and following the game installer prompts
+2. Unzip `files_to_copy.zip`
+3. Navigate to the game folder:
+
+   ```
+   C: -> Games -> Lethal Company (M4CKD0GE Repack)
+   ```
+4. Copy the contents of `files_to_copy` into the game folder
+5. Open `Lethal Company.exe` to play
 
 ---
 
