@@ -115,7 +115,7 @@ Follow these steps:
 
 ---
 
-### 📁 C. Paste Mod Folders (Required for Online Play)
+### 📁 D. Paste Mod Folders (Required for Online Play)
 
 1. Unzip the **files_to_copy.zip** file
 
