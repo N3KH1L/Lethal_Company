@@ -62,11 +62,8 @@ In the **LethalCompany** bottle:
 ### 🧭 B. Add the Game Executable
 
 1. **Open Crossover**
-   - Launch the Crossover app.
-
 2. **Select Your Bottle**
    - In the sidebar, select the bottle you created earlier (e.g., `LethalCompany`).
-
 3. **Click "Run Command..."**
    - This opens a window to run a custom `.exe` file.
 
