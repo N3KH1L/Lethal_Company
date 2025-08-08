@@ -7,6 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/Momin-Approved-yellow)
 ![Static Badge](https://img.shields.io/badge/%E2%80%8E%20-It's%20Finger%20Lickin'%20Good-F40027?style=flat&logo=kfc&logoColor=%23F40027&logoSize=auto)
 
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=CCCCCC&center=true&vCenter=true&width=600&lines=Can+you+make+it+back+in+one+piece?;Every+pickup+matters;Trust+no+one…+not+even+your+team." alt="Typing SVG" />
+
 
 This guide will help you run **Lethal Company** on **macOS** & **windows** using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
 
