@@ -18,7 +18,7 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 ## ✅ Requirements
 
 * macOS 12 or later (Apple Silicon or Intel)
-* 64-bit Windows 10 operating system
+  * OR 64-bit Windows 10 operating system
 * [Crossover for macOS](https://www.codeweavers.com/crossover/download)
 * Game build:
   `lethal.company.v72.build.18916695.incl.online-m4ckd0ge_repack (extract.me)`
