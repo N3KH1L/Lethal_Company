@@ -40,6 +40,8 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 
 ## 🛠 Step 3: Install The Game
 
+### 🛠 A. Install Game Into Bottle
+
 In the **LethalCompany** bottle:
 1. Go to the bottle → **Install Application into Bottle**
 <img width="288" height="249" alt="Screenshot 2025-08-08 at 11 40 39 AM" src="https://github.com/user-attachments/assets/d19a898e-2d20-419e-96ec-d6a6a0c4befe" />
@@ -55,9 +57,9 @@ In the **LethalCompany** bottle:
 5. A game installer window should open
    - Follow the instructions in the window and wait for installation
 
+---
 
-
-### 🧭 Add the Game Executable
+### 🧭 B. Add the Game Executable
 
 1. **Open Crossover**
    - Launch the Crossover app.
@@ -83,7 +85,7 @@ In the **LethalCompany** bottle:
 
 ---
 
-### ⚙️ Enable WinHTTP in Wine (Required for Online Play)
+### ⚙️ C. Enable WinHTTP in Wine (Required for Online Play)
 
 To ensure online/multiplayer functionality works correctly, you must manually enable the `winhttp` library in the bottle's Wine settings.
 
@@ -113,16 +115,12 @@ Follow these steps:
 
 ---
 
-> 🧠 Tip: If the game doesn’t launch or shows network-related errors, enabling `winhttp` typically resolves it. You can return to this setting any time via Wine Configuration.
-
----
 
 ## 🎮 Step 4: Run the Game
 
-1. In Crossover, click the **"Run Command"** button inside your bottle
-2. Click **"Browse..."**, and select the game’s `.exe` (e.g., `Lethal Company.exe`) from the extracted folder
-3. (Optional) Check **"Save Command as Launcher"** to create a shortcut for future use
-4. Click **"Run"**
+- If you haved saved the command as a launcher, you should see Lethal Company in the bottle
+   - Click on it to start the game
+- Otherwise, you can start the game by following the instructions in Step 3B
 
 ---
 
