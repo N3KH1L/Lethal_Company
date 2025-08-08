@@ -39,12 +39,38 @@ This guide helps you run **Lethal Company** on **macOS** using [Crossover](https
 
 ## 🛠 Step 3: Install The Game
 
-In the **LethalCompany** bottle:
-1. Go to the bottle → **Install Software into Bottle**
-2. Search and install the following (if you encounter issues):
-   - `DirectX for Modern Games`
-   - `.NET Framework 4.8`
-   - `Visual C++ Redistributable 2015–2022`
+
+
+1. **Open Crossover**
+   - Launch the Crossover app.
+
+2. **Select Your Bottle**
+   - In the sidebar, click the bottle you created earlier (e.g., `LethalCompany`).
+
+3. **Open "Run Command..."**
+   - In the top-right or bottle menu, click **"Run Command..."**  
+   This allows you to run any `.exe` file manually inside the selected bottle.
+
+4. **Browse to the Game EXE**
+   - Click the **"Browse..."** button
+   - Navigate to the folder where you extracted the game
+   - Select the main game file — usually:
+     ```
+     Lethal Company.exe
+     ```
+   - Click **"Open"**
+
+5. **(Optional) Save as Launcher**
+   - Before clicking Run, check the box:  
+     ✅ **"Save Command as a Launcher"**
+   - This creates a shortcut in Crossover so you don’t have to repeat this step every time.
+
+6. **Click "Run"**
+   - The game should now launch inside the Crossover environment.
+   - If it doesn’t start, double-check:
+     - You selected the correct `.exe`
+     - You enabled **WinHTTP** in Step 4
+     - Required dependencies are installed (see Step 5)
 
 ---
 
