@@ -2,13 +2,14 @@
 
 # 🎮 How to Run **Lethal Company** on macOS & Windows (No Steam) via Crossover
 
-This guide will help you run **Lethal Company** on **macOS** & **windows**using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
+This guide will help you run **Lethal Company** on **macOS** & **windows** using [Crossover](https://www.codeweavers.com/crossover), **without using Steam**, using a pre-downloaded repack version.
 
 ---
 
 ## ✅ Requirements
 
 * macOS 12 or later (Apple Silicon or Intel)
+* 64-bit Windows 10 operating system
 * [Crossover for macOS](https://www.codeweavers.com/crossover/download)
 * Game build:
   `lethal.company.v72.build.18916695.incl.online-m4ckd0ge_repack (extract.me)`
