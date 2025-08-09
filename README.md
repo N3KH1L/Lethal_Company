@@ -22,7 +22,7 @@ This guide will help you run **Lethal Company** on **macOS** & **windows** using
 * [Crossover for macOS](https://www.codeweavers.com/crossover/download)
 * Game build:
   `lethal.company.v72.build.18916695.incl.online-m4ckd0ge_repack (extract.me)`
-
+[![Lethal Company Theme](https://img.youtube.com/vi/3bLL8Qi_mqw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3bLL8Qi_mqw)
 ---
 
 ## 📦 Step 1: Prepare the Game Files
